@@ -9,6 +9,4 @@ All plots and images are saved through VSCode -> tested the code on R Studio and
 the saved final merged data folder includes the merged data sets that i saved for checkpoints during the code. The absolute final merged dataset is called merged_data_final_long.csv 
 please also load this onto your computer for the rest of the code to work (or write the csv onto your computer)
 
-also for some reason when I unzip the folder, inside theres a file "~$(1) P_Data_Extract_From_World_Development_Indicators.xlsx". ignore this -> i didn't put it
-
 Thank you.
